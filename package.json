@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ilyakitaev/sequelize-tree/issues"
   },
-  "homepage": "https://github.com/ilyakitaev/sequelize-tree#readme"
+  "homepage": "https://github.com/ilyakitaev/sequelize-tree#readme",
+  "dependencies": {
+    "sequelize": "^3.19.3"
+  }
 }
