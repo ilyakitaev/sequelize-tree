@@ -1,0 +1,24 @@
+{
+  "name": "sequelize-tree",
+  "version": "1.0.0",
+  "description": "SequelizeJS tree structure implementation ",
+  "main": "./lib/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilyakitaev/sequelize-tree.git"
+  },
+  "keywords": [
+    "sequelize",
+    "tree",
+    "hierarchy"
+  ],
+  "author": "Ilya Kitaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilyakitaev/sequelize-tree/issues"
+  },
+  "homepage": "https://github.com/ilyakitaev/sequelize-tree#readme"
+}
